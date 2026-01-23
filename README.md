@@ -19,7 +19,7 @@
 
 ### 🗄️ Bases de datos
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://github.com/simple-icons/simple-icons/blob/c78187db7b3ad144fe9d393b02f3be08e1438319/icons/mysql.svg)" width="50" />
 </p>
 
 ---
